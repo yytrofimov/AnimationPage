@@ -1,4 +1,11 @@
-# Animera sajten
+# Animation page
+
+## Stack
+
+* HTML+CSS+Animate.CSS+AOS
+
+
+## Animera sajten
 Tillägg följande animationer på sajten. Bekanta dig med samma med ett par animationsbibliotek.
 
 1. **Huvudrubriken.** 
